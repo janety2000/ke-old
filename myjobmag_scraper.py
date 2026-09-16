@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 # ════════════════════════════════════════════════════════════════════════════
 # CONFIG
 # ════════════════════════════════════════════════════════════════════════════
-BASE_URL     = "https://www.myjobmag.ke"
+BASE_URL     = "https://www.myjobmag.co.ke"
 START_PAGE   = 10800      # scrape starts here on a *fresh* run (no saved state)
 END_PAGE     = 50         # and goes down to (and including) here, eventually
 
